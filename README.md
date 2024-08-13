@@ -1,4 +1,4 @@
-![Header Image](./assets/header-image.png)
+![Header Image](assets/zayyan_banner.png)
 
 ---
 
