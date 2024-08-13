@@ -1,16 +1,21 @@
-## Hi there 👋
+![Header Image](./assets/header-image.png)
 
-<!--
-**Zadracker/Zadracker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Skillet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![CSS](https://skillicons.dev/icons?i=css)
+![HTML](https://skillicons.dev/icons?i=html)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Dart](https://skillicons.dev/icons?i=dart)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![Powershell](https://skillicons.dev/icons?i=powershell)
+![Python](https://skillicons.dev/icons?i=python)
+![Regex](https://skillicons.dev/icons?i=regex)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Windows](https://skillicons.dev/icons?i=windows)
+![Git](https://skillicons.dev/icons?i=git)
+
+---
+
